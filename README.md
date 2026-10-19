@@ -1,2 +1,18 @@
 # jesusfetch
-a Christianity based systemfetch written in Python!
+### a Christianity based systemfetch written in Python!
+
+### What does this tool do?
+This tool fetches your system info locally in your Terminal in a Christian way!
+It shows your:
++ OS
++ Host
++ Kernel
++ CPU
++ Memory
++ Disk
++ Uptime
+## Required:
++ psutil
+Link: https://pypi.org/project/psutil/
+### Pictures: 
+<img width="1699" height="271" alt="image" src="https://github.com/user-attachments/assets/2b6670ed-0fdb-4540-a102-aafac4f64446" />
