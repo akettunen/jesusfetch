@@ -21,7 +21,7 @@ It shows your:
 + Memory
 + Disk
 + Uptime
-+ GPU & its usage % (only available on jesusfetchGPU.py
++ GPU & its usage % (only available on jesusfetchGPU.py)
 
 ## Required:
 + Python🐍
