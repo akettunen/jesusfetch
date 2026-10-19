@@ -11,11 +11,12 @@
 + jesusfetch.py its the original version.
 
 ## Commands:
-  help         show this message
-  clear        clear the command area
-  cd <dir>     change directory
-  exit         quit
-  anything else runs in your shell
++ help         show this message
++ clear        clear the command area
++ cd <dir>     change directory
++ exit         quit
+
+anything else runs in your shell
 
 ## What does this tool do?
 This tool prints your system info locally in your Terminal in a Christian way!
