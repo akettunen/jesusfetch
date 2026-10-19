@@ -3,7 +3,10 @@
 
 ### What does this tool do?
 This tool fetches your system info locally in your Terminal in a Christian way!
-
+### Supported systems:
++ Windows
++ Linux
++ MacOS
 It shows your:
 + OS
 + Host
