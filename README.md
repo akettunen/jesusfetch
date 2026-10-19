@@ -11,10 +11,10 @@
 + jesusfetch.py its the original version.
 
 ## Commands:
-+ help         show this message
-+ clear        clear the command area
-+ cd <dir>     change directory
-+ exit         quit
++ help         
++ clear        (clear the command area)
++ cd <dir>     (change directory)
++ exit         (quit)
 
 anything else runs in your shell
 
