@@ -2,9 +2,9 @@
 ### a Christianity based systemfetch written in Python!
 
 ### Supported systems:
-+ Windows
-+ Linux
-+ MacOS
++ Windows🪟
++ Linux🐧
++ MacOS🍎
 
 ### What does this tool do?
 This tool fetches your system info locally in your Terminal in a Christian way!
@@ -19,6 +19,8 @@ It shows your:
 + Uptime
 
 ## Required:
++ Python
++ link: https://www.python.org/
 + psutil
 + link: https://pypi.org/project/psutil/
 
