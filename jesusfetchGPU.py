@@ -273,24 +273,6 @@ def get_disk_usage():
         _disk_cache[1] = now
     return _disk_cache[0]
 
-
-def get_uptime():
-    secs = int(time.time() - psutil.boot_time())
-    days, rem = divmod(secs, 86400)
-    hours, rem = divmod(rem, 3600)
-    minutes, seconds = divmod(rem, 60)
-
-    parts = []
-    if days:
-        parts.append(f"{days}d")
-    if days or hours:
-        parts.append(f"{hours}h")
-    if days or hours or minutes:
-        parts.append(f"{minutes}m")
-    parts.append(f"{seconds:02d}s")
-    return " ".join(parts)
-
-
 def build_info(static):
     return [
         ("OS", static["os"]),
