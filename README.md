@@ -19,7 +19,7 @@ It shows your:
 + Uptime
 
 ## Required:
-+ Python
++ Python🐍
 + link: https://www.python.org/
 + psutil
 + link: https://pypi.org/project/psutil/
