@@ -10,7 +10,7 @@
 + jesusfetchGPU.py: I replaced the “Uptime” section with information about the GPU and its usage % !
 + jesusfetch.py its the original version.
 
-### What does this tool do?
+## What does this tool do?
 This tool prints your system info locally in your Terminal in a Christian way!
 
 It shows your:
